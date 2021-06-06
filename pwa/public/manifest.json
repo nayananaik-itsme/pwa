@@ -1,0 +1,45 @@
+{
+  "name":"Login Page",
+  "short_name": "Login",
+  "description":"A Simple Login Page App",
+  "start_url": "/index.html",
+  "display" : "standalone",
+  "theme_color":"#2196f3",
+  "background_color":"#2196f3",
+  "scope":"/",
+  "orientation":"portrait",
+  "icons":[
+    {
+      "src":"images/icons/wallpapertip_cool-sports-car-wallpaper_572914.jpg",
+      "sizes":"72x72",
+      "type":"image/png"
+    },
+    {
+      "src":"images/icons/wallpapertip_cool-sports-car-wallpaper_572976.jpg",
+      "sizes":"96x96",
+      "type":"image/png"
+    },
+    {
+      "src":"images/icons/wallpapertip_lamborghini-hd-full-screen_278018.jpg",
+      "sizes":"128x128",
+      "type":"image/png"
+    },
+    {
+      "src":"images/icons/wallpapertip_supercars-hd-wallpapers-1080p_574552.jpg",
+      "sizes":"144x144",
+      "type":"image/png"
+    },
+    {
+      "src":"images/icons/wallpapertip_wallpaper-mobil-sport-bergerak_67485.jpg",
+      "sizes":"152x152",
+      "type":"image/png"
+    },
+    {
+      "src":"images/icons/wallpapertip_world-best-car-wallpaper_573883.jpg",
+      "sizes":"192x192",
+      "type":"image/png"
+    }
+  ],
+
+  "splash_pages":null
+}
